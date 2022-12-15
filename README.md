@@ -28,6 +28,7 @@
 
 4)Navbar and footer 
 
+5)Product and Single Product Page
 
 
 Netlify Link - <a href="https://myglammprojectunit5.netlify.app/">https://myglammprojectunit5.netlify.app/</a>
