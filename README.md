@@ -20,18 +20,17 @@
 
 #We were team of 4 have done 
 
-1)Homepage -<a href='https://github.com/faisalk2' >Faisal Khan</a>
+1)Homepage 
 
-2)Login ,SignUp ,Backend - <a href='https://github.com/faisalk2' >Faisal Khan</a>
+2)Login ,SignUp ,Backend 
 
-3)Bag,checkout,address and payment - <a href='https://github.com/Santanu55555'>Santanu Mohapatra</a>
+3)Bag,checkout,address and payment  
 
-4)Navbar and footer - <a href='https://github.com/AdilAhmed976'>Adil Ahmed </a>
+4)Navbar and footer 
 
 
 
 Netlify Link - <a href="https://myglammprojectunit5.netlify.app/">https://myglammprojectunit5.netlify.app/</a>
-medium Link - <a href="https://medium.com/@faisal.z.khan5538/clone-of-myglamm-com-4101b57e8448">https://medium.com/@faisal.z.khan5538/clone-of-myglamm-com-4101b57e8448</a>
 
 #Teck Stacks-
 
